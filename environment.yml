@@ -1,0 +1,5 @@
+name: quarto
+channels:
+- conda-forge
+dependencies:
+- quarto
